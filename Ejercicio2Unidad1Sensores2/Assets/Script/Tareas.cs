@@ -17,7 +17,9 @@ public class Tareas : MonoBehaviour
         
     }
 
-    void Tarea() {
+    void Tarea1() {
         Debug.Log("tarea uno completa");
     }
+
+    void Tarea2() { Debug.Log("tarea dos completa"); }
 }
