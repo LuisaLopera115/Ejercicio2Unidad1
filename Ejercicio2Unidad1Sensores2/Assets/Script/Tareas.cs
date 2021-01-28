@@ -5,16 +5,16 @@ using UnityEngine;
 public class Tareas : MonoBehaviour
 {
     
-    // Start is called before the first frame update
     void Start()
     {
         
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
+        Tarea1();
+        Tarea2();
+        Tarea3();
     }
 
     void Tarea1() {
